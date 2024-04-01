@@ -5,10 +5,10 @@
 웹개발 공부 중입니다.
 반갑습니다.
 
-##Career
+## Career
 - 영남대학교 컴퓨터공학과 학부생 2학년
 
-##Links
+## Links
 - E-mail - eorinhae@gmail.com
 
 <!--
