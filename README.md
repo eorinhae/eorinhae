@@ -2,11 +2,11 @@
 
 ## Introduction
 안녕하세요.
-웹개발 공부 중입니다.
+python, c, c++ 공부 중입니다.
 반갑습니다.
 
 ## Career
-- 영남대학교 컴퓨터공학과 학부생 2학년
+- 영남대학교 컴퓨터공학과 2학년 재학중
 
 ## Links
 - E-mail - eorinhae@gmail.com
